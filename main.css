@@ -594,3 +594,8 @@ footer {
   color: #e6af2e;
   transform: translateY(-15px);
 }
+
+nav ul li:hover{
+  border-bottom: solid 5px #ccc;
+}
+
